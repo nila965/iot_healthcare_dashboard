@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "iot-health-ai-dashboard",
+  "private_key_id": "455fa68e5934e78ec4a9622a0f0a69609238f3e9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2RkVQ0FDZYp5U\nxT+c2hsY52dLa6zrUseLqv9izTbLserN79eQKVjaOXj938rtOc9iARSuTyvbWMJJ\nGmwHjJKHpsfbmfhVyslV3xtHC5F8iJN/B4KFgSdw4FTBEeBE7ZjWRrvQyAmhCvo6\ninmQ+1Pf6kc8a0NW4uwUTnmawvIk6ivVNX9/sO4gY39tPKkn8TBkf/POfRCuo5hv\n6+t7oRbdYJGA/MX5wsIRfmrOJhm/ommLFpa+/JmrrR+17tUL4RC8/KWNrNa+BlEL\npXVX5CPPQ56B3CfCE2a0lc4vIS8QSPAZY9X72Arh/eP7vMl4xkw8kHUarI5ZLJXw\noVEpWtTdAgMBAAECggEABJSpg0lo7r2iuwCmA5wbmDmgh+2xz8wpxaHLf0EnAmF7\nRCel5DKV0A4ns0GfiOyuAImEaokE0iNd5pZqZpoqyIvxc9xfuFA7VRQhTFzHEDki\nc8vNhOtlAVox5xQ67aCG+cOXTrzoOQrclQIL4g/e4L6zgZo0fAeB5VS/i5sgmLra\n+T7UyVjMoy89Nz+N7COytVyq83zrF6B8HMlJd6ORBexFwEvzPzTKuuNHPP2WsqZT\nvyqSOJ0xy6IVdwTe0Y/82AAQlYY4mNzzNi/xocJ4VW+vFo+fiHxXtvZMUtOMdP35\nLZ4eJlTTOKVBDG+9xSqZI0Hz75vsgOncD8llyzcV5QKBgQDbuQ69apN8pl+qoVvX\ngZapJZcIkQWjWiYAEilf5G4QE674Xfp7kc6VoQqNgFwEHnPMVMPN0ISWkfHwUnUg\nz3kuypfRM3MCmtbKs+QTTCDUNguvO8/2va0md/zKkocbxck/1GGWGgnpY6kiKcC6\nchVEPz4CV6HAUdlJk0+fAmGJGwKBgQDUXmWMbhZzf/DOWQxQYE/TtcIqydgEU8d3\nhwsX9YrmOd8JHcVGpr4/c7cl2Y0z5vfW9P3bjgj376CXM9xGRtmY5Qpuc5eJXEzj\n5I32YE2h/j94LEpZuVgTRNVu/1KIF+pyAQm/HN/DsYzql5Lz/rUGdSXPAJ2sK1Rj\n49qLCwOxZwKBgHi+7tG68sgKagJL4DvC9DeJ98D2aUHGtaFOWbxfvPhKyNmmU5N6\noitqL3Fpe6er0HkWj+/XyjUwiONHfSSFv5OuM9X8TxS8YJNOXmUYbeYQuUUYOoXe\n4HuGbr4n3eWuQJU6MlKZhp7ibLzgcxBCx1sU4g/JdpNIp38eXCAG3/DHAoGAcu6T\nbqi1pdR78nDm5Sj6is03RAjwy4a70MhZDKJqhaaUOk7OUSo0lAp/+BABBzHct4zn\nRkdcOzKIasw6Th5R7RknyBbuz/wP8NXkro339c+vcc4mfuB79hGuoN+1PsoSq5g8\nOh3aTAJvDRbzBPG37sK/r4PZ0S+yAE10HQPc/8kCgYEAsMVXQZybhP09HIaJkBUd\nMfnVHDHgYR+rBqY+CLV/Qc+keydZd2rScXjTmr2lKv/hTTaly2pzg63lVe/jYzTL\nqo0uD0r03c/w9VTDcEja4lrhnAAJfVwhm8FtjBW8Ana9oBvvMFvsk3+hvmPJFOmg\nsDYaoLSnusUHkhn/1KqHv9Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@iot-health-ai-dashboard.iam.gserviceaccount.com",
+  "client_id": "117012130872092119413",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40iot-health-ai-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
